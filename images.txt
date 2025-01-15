@@ -8,3 +8,4 @@ gcr.io/google-containers
 --platform=linux/amd64
 #支持私库
 k8s.gcr.io
+centos
