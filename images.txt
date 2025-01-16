@@ -2,6 +2,7 @@ nginx
 centos
 mysql
 #支持私库
+nvidia/cuda:11.1-cudnn8-runtime-ubi8
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
